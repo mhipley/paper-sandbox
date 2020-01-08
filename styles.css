@@ -8,7 +8,6 @@ body {
   margin: 0; }
 
 canvas {
-  border: 1px dashed red;
   box-sizing: border-box;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box; }
